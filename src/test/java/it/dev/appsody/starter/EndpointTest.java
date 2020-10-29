@@ -41,7 +41,7 @@ public class EndpointTest {
 
     @Test
     public void testResourceEndpoint() {
-        checkEndpoint(RESOURCE_ENDPOINT, "StarterResource response");
+        checkEndpoint(RESOURCE_ENDPOINT, "Testing Demo Again");
 
     }
 
